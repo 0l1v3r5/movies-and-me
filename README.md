@@ -1,1 +1,3 @@
-# movies-and-me
+# React native movies app
+
+WIP
