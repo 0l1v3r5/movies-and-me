@@ -1,4 +1,5 @@
 import { API_URL, API_TOKEN, APP_LOCALE, API_BASE_URL } from "@env";
+import fetch from "node-fetch";
 
 export function getFilmsFromApiWithSearchedText(text, page) {
   const url =
